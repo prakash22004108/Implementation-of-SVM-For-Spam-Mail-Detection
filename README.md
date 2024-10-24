@@ -9,11 +9,17 @@ To write a program to implement the SVM For Spam Mail Detection.
 
 ## Algorithm
 STEP 1. Import the required libraries.
+
 STEP 2. Read the data frame using pandas.
+
 STEP 3. Get the information regarding the null values present in the dataframe.
+
 STEP 4. Split the data into training and testing sets.
+
 STEP 5. Convert the text data into a numerical representation using CountVectorizer.
+
 STEP 6. Use a Support Vector Machine (SVM) to train a model on the training data and make predictions on the testing data.
+
 STEP 7. Finally, evaluate the accuracy of the model.
 
 ## Program:
