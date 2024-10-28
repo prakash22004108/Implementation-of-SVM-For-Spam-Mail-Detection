@@ -1,4 +1,4 @@
-# Ex-8: Implementation-of-SVM-For-Spam-Mail-Detection
+# Implementation-of-SVM-For-Spam-Mail-Detection
 ## DATE:
 ## AIM:
 To write a program to implement the SVM For Spam Mail Detection.
